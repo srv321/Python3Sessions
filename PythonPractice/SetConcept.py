@@ -93,5 +93,5 @@ student = {"Naveen", "Tom", "Steve", "Peter"}
 student.remove("Tom")
 print(student)  # {'Steve', 'Naveen', 'Peter'}
 
-student.remove("Simon")
-print(student)  # KeyError: 'Simon'-> remove gives error if value doesnt exist
+# student.remove("Simon")
+# print(student)  # KeyError: 'Simon'-> remove gives error if value doesnt exist
